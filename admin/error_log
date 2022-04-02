@@ -1,0 +1,332 @@
+[21-Feb-2022 11:58:49 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 11:58:49 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vargaamv/store.varga.am/connectDB.php on line 20
+[21-Feb-2022 11:58:49 Europe/Berlin] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 22
+[21-Feb-2022 11:58:50 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 11:58:50 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vargaamv/store.varga.am/connectDB.php on line 20
+[21-Feb-2022 11:58:50 Europe/Berlin] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 22
+[21-Feb-2022 11:58:50 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 28
+[21-Feb-2022 11:58:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vargaamv/store.varga.am/admin/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vargaamv/store.varga.am/admin/index.php on line 10
+[21-Feb-2022 11:59:01 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 11:59:01 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vargaamv/store.varga.am/connectDB.php on line 20
+[21-Feb-2022 11:59:01 Europe/Berlin] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 22
+[21-Feb-2022 11:59:08 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 11:59:08 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vargaamv/store.varga.am/connectDB.php on line 20
+[21-Feb-2022 11:59:08 Europe/Berlin] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 22
+[21-Feb-2022 11:59:08 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 28
+[21-Feb-2022 11:59:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vargaamv/store.varga.am/admin/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vargaamv/store.varga.am/admin/index.php on line 10
+[21-Feb-2022 12:00:36 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:00:36 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'vargaamv_test1'@'localhost' to database 'questions' in /home/vargaamv/store.varga.am/connectDB.php on line 20
+[21-Feb-2022 12:00:36 Europe/Berlin] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 22
+[21-Feb-2022 12:00:36 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 28
+[21-Feb-2022 12:00:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vargaamv/store.varga.am/admin/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vargaamv/store.varga.am/admin/index.php on line 10
+[21-Feb-2022 12:00:39 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:00:39 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'vargaamv_test1'@'localhost' to database 'questions' in /home/vargaamv/store.varga.am/connectDB.php on line 20
+[21-Feb-2022 12:00:39 Europe/Berlin] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 22
+[21-Feb-2022 12:00:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:00:41 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'vargaamv_test1'@'localhost' to database 'questions' in /home/vargaamv/store.varga.am/connectDB.php on line 20
+[21-Feb-2022 12:00:41 Europe/Berlin] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 22
+[21-Feb-2022 12:00:41 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 28
+[21-Feb-2022 12:00:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vargaamv/store.varga.am/admin/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vargaamv/store.varga.am/admin/index.php on line 10
+[21-Feb-2022 12:01:13 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:01:14 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:01:15 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:01:39 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:01:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:01:42 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:01:43 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:03:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:03:41 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:6) in /home/vargaamv/store.varga.am/admin/index.php on line 13
+[21-Feb-2022 12:04:11 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:04:54 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:05:38 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:05:44 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:05:44 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:6) in /home/vargaamv/store.varga.am/admin/index.php on line 13
+[21-Feb-2022 12:08:00 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:08:00 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:6) in /home/vargaamv/store.varga.am/admin/index.php on line 13
+[21-Feb-2022 12:08:07 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:08:42 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:11:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:11:57 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:11:57 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:6) in /home/vargaamv/store.varga.am/admin/index.php on line 13
+[21-Feb-2022 12:14:00 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:14:02 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:14:09 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:14:09 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:6) in /home/vargaamv/store.varga.am/admin/index.php on line 13
+[21-Feb-2022 12:14:56 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:15:14 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:18:36 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:18:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:18:41 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:6) in /home/vargaamv/store.varga.am/admin/index.php on line 13
+[21-Feb-2022 12:20:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:21:12 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:21:12 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:6) in /home/vargaamv/store.varga.am/admin/index.php on line 13
+[21-Feb-2022 12:22:09 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:22:21 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:22:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:22:55 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:29:07 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:29:12 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 12:29:12 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:6) in /home/vargaamv/store.varga.am/admin/index.php on line 13
+[21-Feb-2022 12:31:34 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:32:19 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:33:08 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:33:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:33:45 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:34:08 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:35:20 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:35:39 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:35:39 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 16
+[21-Feb-2022 12:35:58 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:35:58 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 16
+[21-Feb-2022 12:37:04 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:37:04 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 16
+[21-Feb-2022 12:38:13 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:38:13 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 16
+[21-Feb-2022 12:40:06 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:40:06 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:41:52 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:41:52 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:45:04 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:49:18 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:49:43 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:49:43 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/admin/index.php on line 5
+[21-Feb-2022 12:50:00 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:50:00 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/admin/index.php on line 5
+[21-Feb-2022 12:50:00 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:50:05 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:50:05 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/admin/index.php on line 5
+[21-Feb-2022 12:50:05 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:50:22 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:50:22 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/admin/index.php on line 5
+[21-Feb-2022 12:50:22 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:52:38 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:52:38 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:52:38 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:52:43 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:52:43 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:52:43 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:54:12 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:54:12 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:54:12 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:55:59 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:55:59 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:55:59 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:56:50 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:56:50 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:57:43 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:57:43 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:57:43 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:58:12 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:58:12 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:58:12 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:58:19 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:58:19 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:58:20 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 12:58:22 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 12:58:22 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:59:09 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:59:09 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:59:11 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:59:11 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:59:34 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:59:34 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:59:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 12:59:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 12:59:53 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:03:18 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 13:03:18 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 13:03:23 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 13:03:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 13:03:23 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:07:45 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 13:07:45 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 13:07:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 3
+[21-Feb-2022 13:07:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 13:07:53 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:20:40 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 6
+[21-Feb-2022 13:20:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 7
+[21-Feb-2022 13:20:40 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 10
+[21-Feb-2022 13:21:04 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 6
+[21-Feb-2022 13:21:04 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 7
+[21-Feb-2022 13:21:04 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 10
+[21-Feb-2022 13:21:04 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:22:27 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 9
+[21-Feb-2022 13:22:27 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:22:41 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 9
+[21-Feb-2022 13:22:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:22:41 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:23:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 13:23:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 9
+[21-Feb-2022 13:23:40 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:23:40 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:24:19 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 13:24:19 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 9
+[21-Feb-2022 13:24:19 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:25:28 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 13:25:28 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:25:38 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 13:25:38 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:25:38 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:25:48 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 4
+[21-Feb-2022 13:25:48 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:25:48 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:27:50 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 13:27:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function rint() in /home/vargaamv/store.varga.am/connectDB.php:9
+Stack trace:
+#0 /home/vargaamv/store.varga.am/admin/index.php(2): include_once()
+#1 {main}
+  thrown in /home/vargaamv/store.varga.am/connectDB.php on line 9
+[21-Feb-2022 13:27:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 13:27:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function rint() in /home/vargaamv/store.varga.am/connectDB.php:9
+Stack trace:
+#0 /home/vargaamv/store.varga.am/admin/index.php(2): include_once()
+#1 {main}
+  thrown in /home/vargaamv/store.varga.am/connectDB.php on line 9
+[21-Feb-2022 13:28:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 5
+[21-Feb-2022 13:28:40 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:29:21 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 10
+[21-Feb-2022 13:29:21 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:29:21 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:29:30 Europe/Berlin] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 10
+[21-Feb-2022 13:29:30 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 11
+[21-Feb-2022 13:29:30 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:29:30 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:33:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:33:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:33:53 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:33:55 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:33:55 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:34:19 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:34:19 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:34:19 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:34:52 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:34:52 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:34:52 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:35:22 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:35:22 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:35:22 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:41:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/vargaamv/store.varga.am/admin/index.php on line 7
+[21-Feb-2022 13:45:38 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:45:38 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:46:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:46:40 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:46:40 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:50:32 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:50:32 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/vargaamv/store.varga.am/connectDB.php on line 73
+[21-Feb-2022 13:50:43 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:50:43 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/vargaamv/store.varga.am/connectDB.php on line 73
+[21-Feb-2022 13:50:43 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:51:37 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:51:37 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:52:50 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:52:50 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:53:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:53:23 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vargaamv/store.varga.am/connectDB.php:1) in /home/vargaamv/store.varga.am/admin/index.php on line 17
+[21-Feb-2022 13:55:39 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:55:39 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:55:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:55:40 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:22 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:22 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:22 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:22 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:25 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:25 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:28 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:28 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:28 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:28 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:29 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:29 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:30 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:30 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:35 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:35 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:56:36 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:56:36 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:57:09 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:57:09 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:57:15 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:57:15 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:57:15 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:57:15 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:57:47 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:57:47 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:57:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:57:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 13:57:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 13:57:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:00:20 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:00:20 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:00:21 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:00:21 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:04:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:04:40 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:05:25 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:05:25 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:07:18 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:07:18 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:07:19 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:07:19 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:07:23 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:07:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:07:23 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:07:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:10:12 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:10:12 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:11:32 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:11:32 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:13:39 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:13:39 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:51:13 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:51:13 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:51:23 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:51:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:51:42 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:51:42 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:51:42 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:51:42 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:53:06 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:53:06 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:54:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:54:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:55:35 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:55:35 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:56:23 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:56:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:57:03 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:57:03 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:57:07 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:57:07 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:05 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:05 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:09 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:09 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:12 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:12 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:15 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:15 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:20 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:20 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:23 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:26 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:26 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:30 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:30 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:31:33 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 17:31:33 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:33:38 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 17:33:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15

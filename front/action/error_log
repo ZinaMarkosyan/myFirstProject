@@ -1,0 +1,893 @@
+[21-Feb-2022 11:58:59 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 8
+[21-Feb-2022 11:58:59 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vargaamv/store.varga.am/connectDB.php on line 20
+[21-Feb-2022 11:58:59 Europe/Berlin] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vargaamv/store.varga.am/connectDB.php on line 22
+[21-Feb-2022 14:07:15 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:07:15 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:10:27 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:10:27 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:10:29 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:10:29 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:10:29 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:10:29 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:10:30 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:10:30 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:10:31 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:10:31 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:10:31 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:10:31 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 14:10:31 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 14:10:31 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:37 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:37 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:38 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:38 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:38 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:38 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:40 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:40 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:40 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:41 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:41 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:41 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:42 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:42 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:43 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:43 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:45 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:45 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:46 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:46 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:47 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:47 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:49 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:49 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:50 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:50 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:51 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:51 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:53 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:53 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:16:54 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:16:54 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 16:45:23 Europe/Berlin] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/vargaamv/store.varga.am/connectDB.php on line 14
+[21-Feb-2022 16:45:23 Europe/Berlin] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vargaamv/store.varga.am/connectDB.php on line 15
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'question' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 25
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'question_id' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 25
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answerId' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'right_answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 31
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answerId' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'right_answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 31
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answerId' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'right_answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 31
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answerId' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'right_answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 31
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answerId' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[21-Feb-2022 21:42:28 Europe/Berlin] PHP Warning:  Illegal string offset 'right_answer' in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 31
+[22-Feb-2022 18:54:02 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:54:02 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:54:02 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:54:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[22-Feb-2022 18:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[22-Feb-2022 18:54:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[22-Feb-2022 18:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[22-Feb-2022 18:54:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[22-Feb-2022 18:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[22-Feb-2022 18:59:16 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:59:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:59:16 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:59:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:59:16 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 18:59:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[22-Feb-2022 20:54:04 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 20:55:10 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 20:55:44 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 20:56:11 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 20:56:18 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 20:57:14 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 20:57:49 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 20:57:55 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 20:58:14 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 21:00:46 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[22-Feb-2022 21:05:05 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[23-Feb-2022 06:47:11 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 26
+[23-Feb-2022 09:11:22 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 27
+[23-Feb-2022 09:33:37 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 31
+[23-Feb-2022 09:33:37 Europe/Berlin] PHP Notice:  Undefined variable: examid in /home/vargaamv/store.varga.am/front/action/functions.php on line 36
+[23-Feb-2022 09:33:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 37
+[23-Feb-2022 09:36:07 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:36:07 Europe/Berlin] PHP Notice:  Undefined index: $ques in /home/vargaamv/store.varga.am/front/action/functions.php on line 38
+[23-Feb-2022 09:39:36 Europe/Berlin] PHP Notice:  Undefined index: $ques in /home/vargaamv/store.varga.am/front/action/functions.php on line 38
+[23-Feb-2022 09:40:57 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:40:57 Europe/Berlin] PHP Notice:  Undefined index: $ques in /home/vargaamv/store.varga.am/front/action/functions.php on line 38
+[23-Feb-2022 09:44:10 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:45:11 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:00 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:15 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:21 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:45 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:49 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:52 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:53 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:54 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:47:55 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:54:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/vargaamv/store.varga.am/front/action/functions.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/vargaamv/store.varga.am/front/action/functions.php on line 32
+[23-Feb-2022 09:55:56 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 34
+[23-Feb-2022 10:08:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/vargaamv/store.varga.am/front/action/functions.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/vargaamv/store.varga.am/front/action/functions.php on line 33
+[23-Feb-2022 10:08:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/vargaamv/store.varga.am/front/action/functions.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/vargaamv/store.varga.am/front/action/functions.php on line 33
+[23-Feb-2022 10:14:09 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 39
+[23-Feb-2022 10:14:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/vargaamv/store.varga.am/front/action/functions.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/vargaamv/store.varga.am/front/action/functions.php on line 33
+[23-Feb-2022 10:55:53 Europe/Berlin] PHP Notice:  Undefined index: questt in /home/vargaamv/store.varga.am/front/action/functions.php on line 51
+[23-Feb-2022 10:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 55
+[23-Feb-2022 10:57:37 Europe/Berlin] PHP Notice:  Undefined index: questt in /home/vargaamv/store.varga.am/front/action/functions.php on line 51
+[23-Feb-2022 10:57:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 55
+[23-Feb-2022 10:58:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 55
+[23-Feb-2022 11:00:39 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:27:52 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:28:02 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:29:57 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:32:14 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:32:16 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:33:14 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:35:41 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:35:46 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:36:12 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:42:40 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 11:43:53 Europe/Berlin] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vargaamv/store.varga.am/front/action/functions.php on line 40
+[23-Feb-2022 12:47:33 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 21
+[23-Feb-2022 12:47:36 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 21
+[23-Feb-2022 12:47:38 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 21
+[23-Feb-2022 12:48:09 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 21
+[23-Feb-2022 12:49:06 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 21
+[23-Feb-2022 12:50:10 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 21
+[23-Feb-2022 12:52:39 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 54
+[23-Feb-2022 13:38:49 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 54
+[23-Feb-2022 13:38:58 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 54
+[23-Feb-2022 13:42:21 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in /home/vargaamv/store.varga.am/front/action/functions.php on line 54
+[23-Feb-2022 13:53:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 60
+[23-Feb-2022 13:53:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 62
+[23-Feb-2022 13:57:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 13:57:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 59
+[23-Feb-2022 13:57:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 13:57:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 59
+[23-Feb-2022 13:59:09 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 13:59:09 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 59
+[23-Feb-2022 14:08:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 14:08:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 59
+[23-Feb-2022 14:40:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 14:40:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 59
+[23-Feb-2022 14:42:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 14:42:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 59
+[23-Feb-2022 14:45:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:11:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:11:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:11:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:11:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:11:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:12:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:14:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:15:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:15:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:15:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:15:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:15:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:15:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:15:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:16:11 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:16:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:16:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:16:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:16:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:17:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:20 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:20 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:20 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:20 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:20 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:20 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:24 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:24 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:24 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:26 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:26 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:26 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:26 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:26 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:26 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[23-Feb-2022 15:17:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:38 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:38 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:38 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:40 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:40 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:40 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:40 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:40 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:40 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:41 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:44 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:44 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:44 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[23-Feb-2022 15:17:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:17:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[23-Feb-2022 15:18:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:18:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:18:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:19:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:20:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:21:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:26:10 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:26:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:26:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:26:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:27:10 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:27:10 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:27:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:27:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:27:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:27:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 15:34:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[23-Feb-2022 16:25:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/functions.php on line 57
+[24-Feb-2022 15:36:34 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:34 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:34 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:36:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:37:30 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:37:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:37:30 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:37:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:37:30 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 15:37:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:20 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:20 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:20 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:20 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:20 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:20 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:07:57 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:07:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:07:57 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:07:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:07:57 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:07:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:08:58 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:08:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:08:58 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:08:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:08:58 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:08:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:01 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:01 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:01 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:04 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:04 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:04 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:09 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:09 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:09 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:09 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:09 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:09 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:09:11 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:11 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:11 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:11 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:11 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:11 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:12 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:12 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:12 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:09:57 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:57 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:57 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:58 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:58 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:58 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:59 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:59 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:59 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:09:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:01 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:01 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:01 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:04 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:04 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:04 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:10:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:21:40 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:40 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:40 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:40 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:40 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:40 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:42 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:43 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:48 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:48 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:48 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:21:53 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:53 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:53 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:21:56 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:21:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:21:56 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:21:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:21:56 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:21:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 18:22:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:05 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:11 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:11 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:11 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:11 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:11 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:11 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:12 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:12 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:12 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:13 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:13 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:13 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:14 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:14 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:14 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:47 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:47 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:47 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:48 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:48 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:48 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[24-Feb-2022 18:22:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 18:22:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[24-Feb-2022 20:06:14 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:14 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:14 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:18 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:18 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:18 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[24-Feb-2022 20:06:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 08:46:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:15 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:18 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:18 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:18 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:19 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:22 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 08:46:25 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:25 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:25 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:25 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:25 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 08:46:25 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:33 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:33 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:33 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:26:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:02 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:02 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:02 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:29:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:44 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:44 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:44 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:45 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:46 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/checkQuestion.php on line 21
+[25-Feb-2022 09:30:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:30:52 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:30:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:30:52 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:30:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:30:52 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:30:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:24 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:24 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:24 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:25 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:25 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:25 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:25 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:25 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:25 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 09:33:26 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:26 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:26 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:26 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:26 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 09:33:26 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:37 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:37 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:37 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:08:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 30
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:51 Europe/Berlin] PHP Notice:  Undefined variable: dat in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64
+[25-Feb-2022 10:13:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/vargaamv/store.varga.am/front/action/changeQuestion.php on line 64

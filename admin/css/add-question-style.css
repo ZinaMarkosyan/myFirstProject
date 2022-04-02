@@ -1,0 +1,88 @@
+#open-form{
+
+    display: none;
+}
+.open-form{
+    padding: 30px;
+}
+#edit-form{
+    padding: 30px;
+    display: none;
+}
+#open-form .container , .open-form .container{
+    padding: 16px;
+    background-color: white;
+}
+.examUpdate{
+    cursor: pointer;
+}
+/* Full-width input fields */
+#open-form input[type=text] , .open-form input[type=text]{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+#open-form input[type=text]:focus , .open-form input[type=text]:focus{
+    background-color: #ddd;
+    outline: none;
+}
+
+/* Overwrite default styles of hr */
+#open-form hr , .open-form hr{
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+#open-form .add-question, #open-form .save-exam,#open-form .remove-question,
+.open-form .addAnswerB, .open-form .save-examB,.open-form .remove-questionB,.open-form .add-questionB{
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+#open-form .add-question:hover,  #open-form .save-exam:hover,
+.open-form .add-question:hover,  .open-form .save-exam:hover{
+    opacity: 1;
+}
+
+/* Add a blue text color to links */
+#open-form a ,.open-form a {
+    color: dodgerblue;
+}
+.answerA,.answerB{
+    height: 100px;
+    width: 400px;
+}
+#addedSuccess{
+    color: green;
+    display: none;
+}
+#fillFields{
+    color: red;
+}
+#main_container ul{
+    list-style: none;
+}
+.exam_form{
+    float: right;
+    display: inline-block;
+}
+
+.quest-blok,.quest-blokB{
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 5px 0;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+}
